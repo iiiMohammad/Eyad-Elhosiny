@@ -14,7 +14,7 @@
 
 💬 Connect with me on Discord: [My Discord Account](https://discordapp.com/users/1018114834463727686)
 
-**I'm addicated to learning programming & crafting innovative solutions**
+**I'm addicted to learning programming & crafting innovative solutions**
 
 # My Social Media
 
