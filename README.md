@@ -1,14 +1,14 @@
 ![Eyad Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=511752&width=435&lines=Hi+there%2C+I'm+Mohammad+%F0%9F%91%8B)
 
-👨‍💻 Programmer | 🛡️ Cyber Security | 🌐 Web Developer
+👨‍💻 Programmer | 🎮 Gamer | 🎬 Content creator
 
 # 🔧 Languages
 
-![My Languages](https://skillicons.dev/icons?i=python,js,html,css)
+![My Languages](https://skillicons.dev/icons?i=js,html,css)
 
 # ✨ Skills
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,react,discord,bots,discordjs,kali,linux)
+![My Skills](https://skillicons.dev/icons?i=nodejs,discord,bots,discordjs)
 
 📚 Editor | 📜 Scripter | 💻 Error Solver | 🎮 Gamer
 
